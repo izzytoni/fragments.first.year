@@ -1,7 +1,7 @@
-                                                        Fragments of First Year
+Fragments of First Year
 
 
-    Fragments of First Year is an interactive digital corkboard created in
+Fragments of First Year is an interactive digital corkboard created in
 p5.js. Inspireed by memory, transition and nostalgia, the end of first year comes steadfastly and university life
 is put on hold. This project can allow the user to explore personal fragments through clickable map pins with mixed media photography, 
 particles effects, and clickable polaroids. 
@@ -9,7 +9,7 @@ particles effects, and clickable polaroids.
 This visual style was heavily inspired by the artwork of Stardew Valley with
 the soft storytelling and intimate details like blooming flowers. 
 
-            Challenges throughout development included:
+Challenges throughout development included:
  - Loading the images correctly
  - Building particle systems. - this was influenced and guided mainly by The Nature of Code. 
  - I attempted to overcome and make my work more organised and coherent
