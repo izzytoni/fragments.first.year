@@ -1,2 +1,38 @@
-# year-on-the-wall
+# Fragments_of_first_year
 P5JS Narrative game, surrounding a student who reflects on her past year in university for the first time. 
+Fragments of First Year
+
+
+Fragments of First Year is an interactive digital corkboard created in
+p5.js. Inspireed by memory, transition and nostalgia, the end of first year comes steadfastly and university life
+is put on hold. This project can allow the user to explore personal fragments through clickable map pins with mixed media photography, 
+particles effects, and clickable polaroids. 
+
+This visual style was heavily inspired by the artwork of Stardew Valley with
+the soft storytelling and intimate details like blooming flowers. 
+
+Challenges throughout development included:
+ - Loading the images correctly
+ - Building particle systems. - this was influenced and guided mainly by The Nature of Code. 
+ - I attempted to overcome and make my work more organised and coherent
+ - Hover and click interactions. Such as, figuring out how to link the hover effect and the hover detect. 
+ p5.js documentation on their website helped with image loading, hover detection, filters and drawing functions. 
+- figuring out classes was also difficult, building the animated particles to reflect the background atmosphere. 
+
+
+
+Overall, my goal with this proejct was to provide an aesthetically warming atmosphere, with creative
+originality to enhance my somewhat limited knowledge of p5.js compared to HTML. So by using pixel art and mixed
+media photography I hope to have encouraged an Media Art piece with a critical use of p5.js.
+
+
+
+
+Some examples of references used:
+
+https://editor.p5js.org/aferriss/sketches/EuUnrBglp
+https://p5js.org/reference/p5/loadImage/
+https://p5js.org/tutorials/loading-and-selecting-fonts/
+https://p5js.org/reference/p5/textFont/
+https://p5js.org/tutorials/conditionals-and-interactivity/
+https://natureofcode.com/particles/
